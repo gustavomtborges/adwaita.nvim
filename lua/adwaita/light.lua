@@ -173,6 +173,7 @@ M.set = function()
 	highlight("TSError", colors.red_3, "none", "none", "none")
 
 	highlight("@tag", colors.blue_4, "none", "none", "none")
+	highlight("@tag.attribute", colors.orange_5, "none", "none", "none")
 	highlight("htmlTag", colors.blue_4, "none", "none", "none")
 	highlight("htmlEndTag", colors.blue_4, "none", "none", "none")
 	highlight("htmlTagName", colors.blue_4, "none", "none", "none")
